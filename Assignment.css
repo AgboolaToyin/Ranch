@@ -1,0 +1,75 @@
+body{background-image:url("clown.jpeg");
+background-size: cover;
+}
+
+header{background-color:blue;
+height: 50px;
+color: white;
+font-size: 25px;
+text-align: centER;
+width: 100%;
+}
+nav{background-color:purple;
+height: 30px;
+color: white;
+font-size: 15px;
+text-align: centER;
+width: 100%;
+}
+
+aside {background-color:green;
+height: 3000px;
+color: white;
+height: 750px;
+font-size: 15px;
+width: 15%;
+float: left;
+}
+#td1{
+	background-color:yellow;
+	border-radius:20px;
+height: 300px;
+width: 300px;
+text-align: centER
+}
+#td2 {
+	background-color:blue;
+	border-radius:20px;
+height: 300px;
+width: 300px;
+text-align: centER
+}
+#td3 {
+	background-color:red;
+	border-radius:20px;
+height: 300px;
+width: 300px;
+text-align: centER
+}
+
+#td4 {background-color:green;
+border-radius:20px;
+height: 300px;
+width: 300px;
+text-align: centER
+}
+#td5 {background-color:orange;
+border-radius:20px;
+height: 300px;
+width: 300px;
+text-align: centER
+}
+#td6 {background-color:purple;
+height: 300px;
+border-radius:20px;
+width: 300px;
+text-align: centER
+}
+#td5:hover, #td6:hover{
+	background-color:pink;
+	}
+footer{background-color:orange;
+text-align: centER;
+height: 60px;
+font-size: 30px;
+}
